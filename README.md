@@ -18,6 +18,6 @@ Start adding your expenses.
 * Requirements
     Java 8 or above.
 
-* Developed by Aditi 
+* Developed by Aditi, 
     Feel free to fork, modify, and enhance this project!
 
